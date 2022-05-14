@@ -84,3 +84,24 @@ th {
     border: 1px solid black;
     padding: 5px;
 }
+
+/*Extra Styles*/
+
+.hightlight {
+    color: turquoise;
+}
+footer {
+    width: 100%;
+    padding: 20px;
+    background-color: orangered;
+}
+
+footer p{
+    color: white;
+}
+
+#holiday {
+    width: 100%;
+    padding: 25px;
+    background-color: orangered;
+}
